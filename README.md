@@ -27,7 +27,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2 Sayıyı toplayan program](https://yildirimbasoglu.blogspot.com/2021/05/helle.html#more)
+- [hello world - Java](https://yildirimbasoglu.blogspot.com/2021/06/hello-world.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://yildirimbasoglu.blogspot.com)
