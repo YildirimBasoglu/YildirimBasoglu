@@ -27,8 +27,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [dort islem- Java](https://yildirimbasoglu.blogspot.com/2021/06/dort-islem.html)
-- [hello world - Java](https://yildirimbasoglu.blogspot.com/2021/06/hello-world.html)
+- [Java'ya Giriş - Java](https://yildirimbasoglu.blogspot.com/2021/06/java-nedir-java-1995-ylnda-olusturulmus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://yildirimbasoglu.blogspot.com)
