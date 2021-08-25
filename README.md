@@ -23,10 +23,10 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Html Giriş - HTML](https://yildirimbasoglu.blogspot.com/2021/06/html-giris.html)
 - [Java'da Yorumlar - Java](https://yildirimbasoglu.blogspot.com/2021/07/javada-yorumlar.html)
 - [Java Değişkenleri  - Java](https://yildirimbasoglu.blogspot.com/2021/08/javada-degiskenler.html)
 - [Java'da Veri Türleri - Java](https://yildirimbasoglu.blogspot.com/2021/08/javada-veri-turleri.html)
+- [Java Tip Dönüşümleri - Java](https://yildirimbasoglu.blogspot.com/2021/08/javada-tip-donusumleri.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://yildirimbasoglu.blogspot.com)
