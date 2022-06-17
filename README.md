@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I Love watching Star Wars**
 
-[![](https://visitcount.itsvg.in/api?id=YildirimBasoglu&icon=8&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yildirimbasoglu&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 <h3 align="left">🌐 Socials:</h3>
