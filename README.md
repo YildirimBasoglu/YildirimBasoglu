@@ -16,6 +16,10 @@
 [![](https://visitcount.itsvg.in/api?id=YildirimBasoglu&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ---
 
+<h3 align="left">📃 Latest Blog Post:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/yildirimspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yildirimspace" height="30" width="40" /></a>
