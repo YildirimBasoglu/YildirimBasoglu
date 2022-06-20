@@ -19,9 +19,9 @@
 
 # 📃Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [İnternet Nedir? - Nasıl Çalışır?](https://yildirimbasoglu.blogspot.com/2022/05/internet-nedir-nasl-calsr.html)
+- [İnternet Nedir ? - Nasıl Çalışır ?](https://yildirimbasoglu.blogspot.com/2022/05/internet-nedir-nasl-calsr.html)
 - [Front-End Developer ve Back-End Developer Nedir ? - Nereden Başlanır ?](https://yildirimbasoglu.blogspot.com/2022/04/front-end-developer-ve-back-end.html)
-- [HTML NEDİR - HTML TARİHÇESİ - ARTILARI EKSİLERİ](https://yildirimbasoglu.blogspot.com/2022/03/html-1.html)
+- [HTML Nedir - HTML Tarihçesi - Artıları eksileri](https://yildirimbasoglu.blogspot.com/2022/03/html-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 
